@@ -1,0 +1,9 @@
+{
+  "name": "continuous_deployment",
+  "version": "1.0.0",
+  "description": "continuous_deployment",
+  "main": "index.js",
+  "repository": "https://github.com/Yushkevich-A-A/Continuous_deployment.git",
+  "author": "Yushkevich A.A. work computer <Mortifer1993@yandex.ru>",
+  "license": "MIT"
+}
