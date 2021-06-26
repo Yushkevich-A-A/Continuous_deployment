@@ -4,4 +4,4 @@ test('тестируем возвращенное значение из функ
   const testValue = 'testValue';
   const result = demo(testValue);
   expect(result).toBe(testValue);
-})
+});
